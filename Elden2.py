@@ -6,6 +6,7 @@ import time
 # before starting travel to Palace Approach Ledge-Road
 
 #Keybindings must be WASD for movement. E active. Q rotate camera left. C camera down. B camera lock. M Attack. L Strong Attack
+#Must have bow held in both hands before starting the bot
 
 def busy_wait(dt):   
     current_time = time.time()
