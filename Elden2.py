@@ -1,6 +1,5 @@
 import pydirectinput
 import time
-#import cv2
 
 
 # before starting travel to Palace Approach Ledge-Road
